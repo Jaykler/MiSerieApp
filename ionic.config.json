@@ -1,0 +1,7 @@
+{
+  "name": "MiSerieApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
